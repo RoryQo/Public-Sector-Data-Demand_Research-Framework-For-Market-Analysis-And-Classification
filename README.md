@@ -693,7 +693,7 @@ All model and feature pipelines are stored in `.pkl` files (included in this rep
 - Plug-and-play reruns on new job data
 - Scalable deployment on different job boards
 - Consistent inference without retraining
-- 
+  
 
 ---
 
