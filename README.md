@@ -7,7 +7,14 @@
   </strong>
 </p>
 
+
  
+<p align="center">
+  <a href="https://github.com/RoryQo/Public-Sector-Data-Demand_Research-Framework-For-Market-Analysis-And-Classification/raw/main/Manuscript.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Full%20Research%20Paper-R%26R%20at%20Discover%20Data-blue?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Download Research Paper (R&R at Discover Data)">
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://pypi.org/project/data-demand-mapper/">
@@ -15,13 +22,6 @@
   </a>
 </p>
 
-
-
-<p align="center">
-  <a href="https://github.com/RoryQo/Public-Sector-Data-Demand_Research-Framework-For-Market-Analysis-And-Classification/raw/main/Manuscript.pdf" download>
-    <img src="https://img.shields.io/badge/Download_Full_Research_Paper-PDF-lightgrey?style=social&logo=adobeacrobatreader&logoColor=white" alt="Download Full Research Paper">
-  </a>
-</p>
 
 
 <table align="center">
