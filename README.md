@@ -336,8 +336,11 @@ This model allowed us to surface **latent data buyers** — jobs that don't use 
 
 The distribution of `DataBuyerScore` reveals important patterns about the model's confidence and behavior in classifying likely data buyers.
 
-<img src="https://github.com/RoryQo/MQE-BSD-Capstone-Project/blob/main/Rory%20Files/Figures/download%20(8).png?raw=true" alt="DataBuyerScore Distribution" width=600/>
-
+<p align="center">
+  <img src="https://github.com/RoryQo/Public-Sector-Data-Demand_Research-Framework-For-Market-Analysis-And-Classification/blob/main/Figures/download%20(8).png?raw=true" 
+       alt="DataBuyerScore Distribution" 
+       width="600"/>
+</p>
 
 #### Distribution Overview
 
