@@ -495,12 +495,14 @@ The entire classification and scoring pipeline has been designed for **scalabili
 
 ---
 
-### Limitations
+### 
+
+This paper is meant only as an initial inquiry into using natural language processing of public job postings to identify likely market participants. There is still much left to be desired in this methodology. Continual work in studying the evolving language of job postings, and additional model robustness checks by using more complex methodologies to confirm results. 
 
 - No access to actual procurement data — analysis infers *intent*, not confirmed purchases
 - Evolving language — terms like “audience segmentation” or “performance analytics” may shift over time
 - Context confusion — some words (e.g., “records,” “system,” “data entry”) appear across very different job types
-- Occasional false positives from operational roles (e.g., food service, dental support) remain possible without continued tuning
+- Occasional false positives from operational roles (e.g., food service, dental support) remain likely without continued tuning
 
 ---
 
