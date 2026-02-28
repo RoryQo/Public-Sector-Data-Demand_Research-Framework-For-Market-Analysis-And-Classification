@@ -339,7 +339,7 @@ The distribution of `DataBuyerScore` reveals important patterns about the model'
 <p align="center">
   <img src="https://github.com/RoryQo/Public-Sector-Data-Demand_Research-Framework-For-Market-Analysis-And-Classification/blob/main/Figures/download%20(8).png?raw=true" 
        alt="DataBuyerScore Distribution" 
-       width="600"/>
+       width="500"/>
 </p>
 
 #### Distribution Overview
@@ -625,7 +625,11 @@ When comparing buyer-likelihood across agency sizes, smaller agencies show a **s
 - **Large agencies** trailed at **~15%**
 - Welch’s t-test between small and large agencies yielded a **t-statistic of -2.912** and **p-value of 0.0036**, indicating a statistically significant difference.
 
-  <img src="https://github.com/RoryQo/MQE-BSD-Capstone-Project/blob/main/Rory%20Files/Figures/size.png?raw=true" alt="Percent by Sector" width="500"/>
+<p align="center">
+  <img src="https://github.com/RoryQo/Public-Sector-Data-Demand_Research-Framework-For-Market-Analysis-And-Classification/blob/main/Figures/size.png?raw=true" 
+       alt="DataBuyerScore Distribution" 
+       width="500"/>
+</p>
 
 **Interpretation:**  
 Agency size appears to be a meaningful predictor of buyer presence since smaller agencies are likelier to include roles that engage in data purchasing. Vendors may benefit from tailoring outreach strategies based on the structural and operational dynamics of minor versus large agencies. This may reflect different procurement structures, leaner staffing models, or greater operational flexibility compared to larger agencies. 
