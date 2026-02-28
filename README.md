@@ -682,8 +682,11 @@ Agencies with a **smaller total number of postings** but a **high proportion** o
 These agencies should not be overlooked simply because of lower job counts — they often rely heavily on **external data vendors to fulfill narrow mission-critical functions**.
 
 
-<img src="https://github.com/RoryQo/MQE-BSD-Capstone-Project/blob/main/Rory%20Files/Figures/agencypct.png?raw=true" alt="Agency Buyer % Distribution" width=600/>
-
+<p align="center">
+  <img src="https://github.com/RoryQo/Public-Sector-Data-Demand_Research-Framework-For-Market-Analysis-And-Classification/blob/main/Figures/agencypct.png?raw=true"
+       alt="Agency Percentage Distribution"
+       width="500"/>
+</p>
 ---
 
 #### 4. Sector-Level Trends by Buyer Concentration
@@ -698,8 +701,8 @@ This suggests:
 
 
 <p align="center">
-  <img src="https://github.com/RoryQo/MQE-BSD-Capstone-Project/blob/main/Rory%20Files/Figures/pctsec.png?raw=true" alt="Percent by Sector" width="500"/>
-  <img src="https://github.com/RoryQo/MQE-BSD-Capstone-Project/blob/main/Rory%20Files/Figures/sectornum.png?raw=true" alt="Count by Sector" width="500"/>
+  <img src="https://github.com/RoryQo/Public-Sector-Data-Demand_Research-Framework-For-Market-Analysis-And-Classification/blob/main/Figures/pctsec.png?raw=true" alt="Percent by Sector" width="500"/>
+  <img src="https://github.com/RoryQo/Public-Sector-Data-Demand_Research-Framework-For-Market-Analysis-And-Classification/blob/main/Figures/sectornum.png?raw=true" alt="Count by Sector" width="500"/>
 </p>
 
 
